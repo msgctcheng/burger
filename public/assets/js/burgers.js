@@ -1,7 +1,7 @@
 $(function() {
-    $(".change-sleep").on("click", function(event) {
+    $(".devour").on("click", function(event) {
       var id = $(this).data("id");
-      var devoured = $(this).data("devour");
+      var devoured = $(this).data("state");
   
       var newState = {
         devoured: devoured
@@ -26,7 +26,8 @@ $(".create-form").on("submit", function(event) {
     event.preventDefault();
 
     var newBurger = {
-      name: $("#burg").val().trim(),
+      burger_name: $("#burg").val().trim(),
+      devoured: false
     };
 
     // Send the POST request.
