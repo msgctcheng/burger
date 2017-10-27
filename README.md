@@ -20,6 +20,9 @@
 
 </span>
 
-![Imgur](https://i.imgur.com/aR6uAJQ.png)
+### MVC File Structure
+* This app makes use of the Model View Controller (MVC) design pattern
+
+![Imgur](https://i.imgur.com/aR6uAJQ.png) 
 
 
