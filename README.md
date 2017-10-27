@@ -1,6 +1,6 @@
-<span style="display:block; text-align:center">
+<center>
 # MVC-Burger-App
-</span>
+</center>
 
 
             Node.js | Express.js | "express-handlebars" - npm | "body-parser" - npm | MySQL/JawsDB | MVC Design
