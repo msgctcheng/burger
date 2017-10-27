@@ -1,11 +1,11 @@
-<center>
 # MVC-Burger-App
-</center>
 
 
             Node.js | Express.js | "express-handlebars" - npm | "body-parser" - npm | MySQL/JawsDB | MVC Design
-
+<span style="display:block; text-align:center">
 A Burger Themed MVC Node.js App 
+</span>
+
 
 App Link: https://pacific-scrubland-98219.herokuapp.com/
 
@@ -18,6 +18,3 @@ Preview IMG:
 </span>
 
 
-<span style="display:block; text-align:center">
-
-</span>
