@@ -8,9 +8,9 @@ App Link: https://pacific-scrubland-98219.herokuapp.com/
 
 Video Demo: http://www.youtube.com/watch?v=TEmfaqyH1Nk
 
-Preview GIF:
+Preview IMG:
 
-![Alt Text](https://i.imgur.com/Ox6SiV6.gifv)
+![Alt Text](https://imgur.com/Ox6SiV6)
 
 
 
