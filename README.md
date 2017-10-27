@@ -10,7 +10,7 @@ Video Demo: http://www.youtube.com/watch?v=TEmfaqyH1Nk
 
 Preview GIF:
 
-![](https://i.imgur.com/Ox6SiV6.gif)
+![image](https://i.imgur.com/Ox6SiV6.gif)
 
 
 
