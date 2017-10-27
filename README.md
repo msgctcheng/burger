@@ -1,7 +1,7 @@
 
-<div style="text-align: center;">
 
-<h1>
+
+<h1 style="text-align: center;">
     MVC-Burger-App
 </h1>
 
@@ -9,13 +9,15 @@
 
 
 
-<h3>
+<h3 style="text-align: center;">
     A Burger Themed MVC Node.js App 
 </h3>
 
 App Link: https://pacific-scrubland-98219.herokuapp.com/
 
 Video Demo: http://www.youtube.com/watch?v=TEmfaqyH1Nk
+
+<div style="text-align: center;">
 
 Preview GIF:
 
