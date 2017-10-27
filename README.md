@@ -15,7 +15,9 @@
 * Preview GIF:
 
 <span style="text-align: center;">
+
 ![Alt Text](https://media.giphy.com/media/xUNda0odUl8ViFCGB2/giphy.gif)
+
 </span>
 
 
