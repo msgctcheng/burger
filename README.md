@@ -1,7 +1,7 @@
 
-<center>
+<div style="text-align: center;">
 
-<h1 style="text-align: center">
+<h1>
     MVC-Burger-App
 </h1>
 
@@ -21,7 +21,7 @@ Preview GIF:
 
 ![Alt Text](https://media.giphy.com/media/xUNda0odUl8ViFCGB2/giphy.gif)
 
-</center>
+</div>
 
 
 
