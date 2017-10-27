@@ -9,25 +9,23 @@
     A Burger Themed MVC Node.js App 
 </h3>
 
-
-<p style="display: block; text-align: center">
+<span style="display: block; text-align: center">
     App Link: https://pacific-scrubland-98219.herokuapp.com/
-</p>
+</span>
 
-
-<p style="display: block; text-align: center">
+<span style="display: block; text-align: center">
     Video Demo: http://www.youtube.com/watch?v=TEmfaqyH1Nk
-</p>
+</span>
 
-<p style="display: block; text-align: center">
+<span style="display: block; text-align: center">
    Preview GIF:
-</p>
+</span>
 
-<p style="display:block; text-align:center">
+<span style="display:block; text-align:center">
 
    ![Alt Text](https://media.giphy.com/media/xUNda0odUl8ViFCGB2/giphy.gif)
-   
-</p>
+
+</span>
 
 
 
